@@ -1,0 +1,9 @@
+amazon:
+  aws:
+    accesskey: 'AKIA37GHFNSNQGF3G7MN'
+    region: us-east-2
+    secretkey: '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'
+  dynamodb:
+    endpoint: 'dynamodb.us-east-2.amazonaws.com'
+server:
+  port: 8900
